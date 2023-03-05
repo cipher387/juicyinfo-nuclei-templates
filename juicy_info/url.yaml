@@ -16,12 +16,12 @@ requests:
       - type: regex
         part: body
         regex:
-          - '^(\(?\+?[0-9]*\)?)?[0-9_\- \(\)]*$'
+          - '(http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?'
     extractors:
       - type: regex
         part: body
         regex:
-          - '^(\(?\+?[0-9]*\)?)?[0-9_\- \(\)]*$'
+          - '(http|https|ftp|ftps)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(\/\S*)?'
 
 
 #url for test https://cleantalk.org/blacklists/britjaynes13@gmail.com
