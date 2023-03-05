@@ -2,6 +2,16 @@
 Nuclei (https://github.com/projectdiscovery/nuclei) templates for extracting juicy info from web pages
 
 
+Using Nuclei for OSINT. 5 minutes guide.
+
+https://medium.com/@cyb_detective/using-nuclei-for-osint-5-minute-basic-guide-f8764424902b
+
+How regular expressions can be useful in OSINT. Theory and some practice using Google Sheets
+
+https://medium.com/@cyb_detective/this-article-consists-of-three-short-parts-31d31efabd5
+
+
+Before launching, copy the juicy_info folder into the Nuclei directory and add some links to the links to the urls.txt file.
 
 
 ## Airtables links extractor
@@ -151,6 +161,13 @@ nuclei -t juicy_info/youtube.yaml -l urls.txt
 ![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/youtube.png)
 
 
+
+# Run scanning with all templates
+
+
+```console
+nuclei -t juicy_info -l urls.txt
+```
 
 
 
