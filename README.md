@@ -4,7 +4,7 @@ Nuclei (https://github.com/projectdiscovery/nuclei) templates for extracting jui
 
 
 
-#Airtables links extractor
+# Airtables links extractor
 
 ```console
 nuclei -t juicy_info/airtable.yaml -l urls.txt
