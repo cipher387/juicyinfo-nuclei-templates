@@ -16,7 +16,7 @@ requests:
       - type: regex
         part: body
         regex:
-          - 'twiter.com/((.|\n)*?)(\s|\"|\]|\,)'
+          - 'twitter.com/((.|\n)*?)(\s|\"|\]|\,)'
     extractors:
       - type: regex
         part: body
