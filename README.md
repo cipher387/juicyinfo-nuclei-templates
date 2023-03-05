@@ -55,7 +55,7 @@ nuclei -t juicy_info/github.yaml -l urls.txt
 nuclei -t juicy_info/googledocuments.yaml -l urls.txt
 ```
 
-![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/googledocuments.png)
+![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/googledocument.png)
 
 
 
