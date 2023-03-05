@@ -1,10 +1,10 @@
-# juicyinfo-nuclei-templates
+# Juicy Info Extraction Nuclei Templates
 Nuclei (https://github.com/projectdiscovery/nuclei) templates for extracting juicy info from web pages
 
 
 
 
-# Airtables links extractor
+## Airtables links extractor
 
 ```console
 nuclei -t juicy_info/airtable.yaml -l urls.txt
