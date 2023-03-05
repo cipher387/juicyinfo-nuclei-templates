@@ -41,4 +41,4 @@ nuclei -t juicy_info/facebook.yaml -l urls.txt
 
 
 
-nuclei -t juicy_info/facebook.yaml -l urls.txt
+
