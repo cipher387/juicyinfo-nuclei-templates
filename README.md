@@ -19,4 +19,4 @@ nuclei -t juicy_info/airtable.yaml -l urls.txt
 nuclei -t juicy_info/bitcoin_address.yaml -l urls.txt
 ```
 
-![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/bitcoin.png)
+![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/bitcoin_addresses.png)
