@@ -127,10 +127,10 @@ nuclei -t juicy_info/telegram.yaml -l urls.txt
 ## Twitter links extractor
 
 ```console
-nuclei -t juicy_info/url.yaml -l urls.txt
+nuclei -t juicy_info/twitter.yaml -l urls.txt
 ```
 
-![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/url.png)
+![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/twitter.png)
 
 
 ## Links extractor
