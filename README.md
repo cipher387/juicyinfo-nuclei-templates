@@ -139,7 +139,7 @@ nuclei -t juicy_info/twitter.yaml -l urls.txt
 nuclei -t juicy_info/twitter.yaml -l urls.txt
 ```
 
-![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/twitter.png)
+![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/url.png)
 
 
 ## YouTube links extractor
