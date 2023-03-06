@@ -69,6 +69,18 @@ nuclei -t juicy_info/googledocuments.yaml -l urls.txt
 
 
 
+## Gravatar avatars links extractor
+
+```console
+nuclei -t juicy_info/gravatar.yaml -l urls.txt
+```
+
+![image](https://github.com/cipher387/juicyinfo-nuclei-templates/blob/main/images/gravatar.png)
+
+
+
+
+
 ## Ipv4 extractor
 
 ```console
