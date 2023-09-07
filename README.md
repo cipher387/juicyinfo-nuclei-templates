@@ -1,3 +1,8 @@
+
+
+Thank you for following me! https://cybdetective.com
+
+
 # Juicy Info Extraction Nuclei Templates
 Nuclei (https://github.com/projectdiscovery/nuclei) templates for extracting juicy info from web pages
 
@@ -184,7 +189,7 @@ nuclei -t juicy_info -l urls.txt
 
 
 
-
+Thank you for following me! https://cybdetective.com
 
 
 
